@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+Pillow
+faiss-cpu
+ftfy
+regex
+tqdm
+datasets
+huggingface_hub
+open-clip-torch
+streamlit>=1.44.0
